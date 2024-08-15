@@ -1,0 +1,9 @@
+{
+    "bot": {
+        "token": "your bot token goes here",
+        "client_id": "your client ID/application ID goes here"
+    },
+    "defaults": {
+        "admins": ["your Discord user ID(s) go here"]
+    }
+}
